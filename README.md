@@ -1,4 +1,6 @@
-This project deals with graph algorithms implemented in C++. It provides functionality to check if a graph is bipartite, detect negative cycles, find shortest paths, and more.
+Graph Algorithms
+
+This project involves implementing various graph algorithms in C++. The functionalities include checking if a graph is bipartite, detecting negative cycles, finding shortest paths, and more.
 Getting Started
 
 To get started with this project, follow these steps:
