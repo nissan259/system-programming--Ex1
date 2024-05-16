@@ -1,3 +1,4 @@
+Sure, here's the updated README.txt with the sh labels removed and the commands formatted with a black background for better visibility:
 Graph Algorithms
 
 This project involves implementing various graph algorithms in C++. The functionalities include checking if a graph is bipartite, detecting negative cycles, finding shortest paths, and more.
