@@ -1,4 +1,7 @@
 #include "Graph.hpp"
+//orel55551234@gmail.com
+//orel nissan
+//322861527
 
 namespace ariel {
 
@@ -64,8 +67,6 @@ namespace ariel {
         // Print only the structured information about the graph
         std::cout << "Graph with " << numVertices << " vertices and " << numEdges << " edges." << std::endl;
     }
-
-
 
     // Get adjacency matrix
     const std::vector<std::vector<int>>& Graph::getAdjacencyMatrix() const {

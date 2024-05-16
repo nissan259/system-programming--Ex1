@@ -1,5 +1,8 @@
 #ifndef GRAPH_HPP
 #define GRAPH_HPP
+//orel55551234@gmail.com
+//orel nissan
+//322861527
 
 #include <vector>
 #include <iostream>
@@ -7,7 +10,7 @@
 namespace ariel {
     class Graph {
     public:
-        Graph(int r, int c);
+        Graph(int rows, int cols);
         Graph();
         ~Graph();
         void loadGraph(const std::vector<std::vector<int>>& adjacencyMatrix);

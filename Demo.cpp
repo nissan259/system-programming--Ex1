@@ -3,10 +3,16 @@
  * Author: Benjamin Saldman.
  */
 
+//orel55551234@gmail.com
+//orel nissan
+//322861527
+
 #include "Graph.hpp"
 #include "Algorithms.hpp"
 using ariel::Algorithms;
-
+//orel55551234@gmail.com
+//orel nissan
+//322861527
 #include <iostream>
 #include <stdexcept>
 #include <vector>
@@ -14,7 +20,7 @@ using namespace std;
 
 constexpr int MAGIC_NUMBER_5 = 5;
 
-int main1()
+int main()
 {
     ariel::Graph graph;
     // 3x3 matrix that represents a connected graph.
