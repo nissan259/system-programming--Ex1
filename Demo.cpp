@@ -20,7 +20,7 @@ using namespace std;
 
 constexpr int MAGIC_NUMBER_5 = 5;
 
-int main()
+int main1()
 {
     ariel::Graph graph;
     // 3x3 matrix that represents a connected graph.
