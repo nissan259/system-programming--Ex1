@@ -1,4 +1,3 @@
-Sure, here's the updated README.txt with the sh labels removed and the commands formatted with a black background for better visibility:
 Graph Algorithms
 
 This project involves implementing various graph algorithms in C++. The functionalities include checking if a graph is bipartite, detecting negative cycles, finding shortest paths, and more.
@@ -8,19 +7,19 @@ To get started with this project, follow these steps:
 
     Clone the repository:
 
-    sh
+    bash
 
 git clone https://github.com/nissan259/system-programming--Ex1.git
 
 Navigate to the project directory:
 
-sh
+bash
 
 cd system-programming--Ex1
 
 Build the project:
 
-sh
+bash
 
     make
 
@@ -28,7 +27,7 @@ Running Tests
 
 To run the tests for this project, use the following commands:
 
-sh
+bash
 
 make test
 ./test
@@ -37,7 +36,7 @@ Cleaning the Project
 
 To clean the project and remove all build files, use the following command:
 
-sh
+bash
 
 make clean
 
@@ -45,7 +44,7 @@ Running Tidy Test
 
 To run the tidy test, use the following command:
 
-sh
+bash
 
 make tidy
 
@@ -53,13 +52,11 @@ Running Valgrind Test
 
 To run the valgrind test, use the following command:
 
-sh
+bash
 
 make valgrind
 
 Algorithms
-
-The project includes the following algorithms:
 isBipartite
 
 The isBipartite function checks if a given graph is bipartite. It uses the tryColorGraph function to attempt coloring the graph with two colors such that no two adjacent vertices have the same color. If successful, the graph is bipartite.
@@ -87,8 +84,6 @@ Graph Representation
 The graph is represented using an adjacency matrix. The Graph class provides methods to load a graph from an adjacency matrix, print the graph, and retrieve the adjacency matrix.
 Author
 
-    Name: Orel Nissan
-    ID: 322861527
-    Email: orel55551234@gmail.com
-
-Feel free to explore the code and utilize the provided algorithms for your graph-related needs!
+Name: Orel Nissan
+ID: 322861527
+Email: orel55551234@gmail.com
