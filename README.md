@@ -6,10 +6,11 @@ Getting Started
 To get started with this project, follow these steps:
 
     Clone the repository:
+git clone https://github.com/nissan259/system-programming--Ex1.git
 
     bash
 
-git clone https://github.com/nissan259/system-programming--Ex1.git
+
 
 Navigate to the project directory:
 
